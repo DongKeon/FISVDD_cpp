@@ -6,7 +6,7 @@
 #include <stdexcept> // std::runtime_error
 #include <sstream> // std::stringstream
 
-#include "../fisvdd.cpp"
+#include "fisvdd.cpp"
 
 using namespace std;
 
