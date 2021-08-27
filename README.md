@@ -9,7 +9,7 @@ This repository is based on the original python implementation [FISVDD](https://
 `./run.sh`
 
 ## Citation
-If you use this code for your publications, please cite the following paper:
+Cite their paper.
 
 ```
 @inproceedings{jiang2019fast,
