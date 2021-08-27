@@ -1,5 +1,6 @@
 # FISVDD C++ (Fast Incremental Support Vector Data Descrption)
 A C++ implementation of [FISVDD, AAAI-19](https://aaai.org/ojs/index.php/AAAI/article/view/4291)
+
 This package contains the implementation of the Fast Incremental Support Vector Data Descrption (FISVDD) method, an algorithm for online training an SVDD model for outlier detection.
 
 This repository is based on the original python implementation [FISVDD](https://github.com/hs-jiang/FISVDD)
